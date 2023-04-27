@@ -1,5 +1,8 @@
 # Marlin 3D Printer Firmware
 
+This is my configuration to run on a out of the box ender 3v2 with the stock bl touch probe. It has advanced_pause disabled because i dont like what it does with octoprint, and disabled the runout sensor cuz this thing doesn't have one.
+
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
